@@ -5,7 +5,7 @@ import vk_api
 from vk_api.longpoll import VkEventType, VkLongPoll
 from vk_api.utils import get_random_id
 
-from anna import VkTools
+from core import VkTools
 
 
 ACCES_TOKEN = 'vk1.a.WZoRoxgGXUjr0aWkhJIziHcRqOLgi-nTnN2T81R0oyYE1sRtG_UHltFol5J88db9nOFmIdHdide6OwlbMO0R-DDVG7nXrGsvyzuuCoGDzNeHdQsA0Nbe1xHRCmWcDdlgWSSImtHNMg5-8d_8LPsRdc51AgRD25ki0KmrVIOJmpDMYjQgwKsfHqijIXA3H0-YxXgGzQfKnEw1z2n4uQPgAg'
